@@ -6,6 +6,7 @@
 * [Week 01 - Wednesday](https://vimeo.com/470397914)
 * [Abstractions and Objects](https://vimeo.com/471527613)
 * [Week 01 - Thursday](https://vimeo.com/471533585)
+* [Week 01 - Saturday](https://vimeo.com/475640770)
 
 ## Lecture Slides
 * [Data Types](./lectures/data-types.pdf)
